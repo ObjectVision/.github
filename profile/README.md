@@ -3,4 +3,4 @@
 
 The GeoDMS is our framework for modelling with (large) geographic data sets.
 
-At our Github you can find the software, documentation, issues and discussions related to the GeoDMS
+At our Github you can find the software, [documentation](https://github.com/ObjectVision/GeoDMS/wiki), issues and discussions related to the GeoDMS
