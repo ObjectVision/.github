@@ -7,6 +7,6 @@ At our GeoDMS repository you can find the [software](https://github.com/ObjectVi
 
 To learn the GeoDMS, we advice to take a look at the [GeoDMS Academy](https://github.com/ObjectVision/GeoDMS_Academy/wiki)
 
-To work with the BAG, we developed the [BAG Toolkit]](https://github.com/ObjectVision/BAG-Tools/wiki).
+To work with the BAG, we developed the [BAG Toolkit](https://github.com/ObjectVision/BAG-Tools/wiki).
 
 The GeoDMS is used for modelling applications like [Land Use Modelling](https://github.com/ObjectVision/LandUseModelling/wiki) and [Accessibility Modelling](https://github.com/ObjectVision/AccessibilityModelling/wiki). Repositories with configuration examples and documentation are available and will be updated.
